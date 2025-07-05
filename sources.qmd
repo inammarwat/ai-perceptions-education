@@ -1,0 +1,10 @@
+---
+title: "Sources"
+format: html
+---
+
+The data used in this project comes from a public Kaggle dataset titled "Survey on Students' Perceptions of AI in Education," created by Gianina Maria Petrascu.
+
+The dataset contains responses from students regarding their thoughts, experiences, and expectations about AI in learning environments. To prepare the data for analysis, I cleaned missing values, standardized column names, and removed non-informative entries.
+
+No major observations were excluded, but some open-text responses were summarized for clarity. The cleaned dataset is stored in the `data/` folder.

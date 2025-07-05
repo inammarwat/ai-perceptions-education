@@ -1,0 +1,9 @@
+---
+title: "Public Perceptions of AI on Education"
+author: "Inam Khan"
+---
+How do students perceive the role of artificial intelligence in education, and what divides their trust versus skepticism?
+This project uses data from a 2023 Kaggle survey conducted by Gianina Maria Petrascu, which gathered responses from over 1,200 students worldwide about their experiences and opinions on AI in education. After removing incomplete responses and cleaning column names, I used R to explore how students’ trust in AI (Y) varies by academic background, age, and gender (X), with a focus on attitudes toward AI grading, fairness, and teacher replacement.
+The analysis reveals that 65% of students believe AI improves learning efficiency, yet 40% are concerned it may eventually replace human teachers. Trust levels also differ by field of study—STEM students are twice as likely as their humanities peers to trust AI for grading. Additionally, 30% of students express concern about potential bias in AI-driven evaluations.
+Students are optimistic about AI’s potential in education, but concerns about fairness, bias, and teacher replacement remain major barriers to full acceptance.
+

@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+I am Inam Ullah Khan, a data science student passionate about education technology.  
+Find my work on [GitHub](https://github.com/inammarwat) or email me at [inamm911@gmail.com].  
+
+This project analyzes [Survey Data on AI in Education](https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education).  
+
+This project was created for [Kane’s Data Science Bootcamp](https://bootcamp.davidkane.info/).  
