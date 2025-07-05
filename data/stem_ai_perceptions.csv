@@ -1,0 +1,214 @@
+id,department,major,gender,year_level,gpa,ai_knowledge,ai_utility,teaching_impact,learning_impact,evaluation_impact,process_concerns
+1,ENG,ENG - Engineering,Male,2,9.2,8,9,Neutral,"Strongly
+Disagree",Disagree,Neutral
+2,ENG,ENG - Engineering,Female,2,7.7,7,6,Disagree,Disagree,"Strongly
+Disagree",Disagree
+3,ENG,ENG - Engineering,Female,2,7.2,5,6,Neutral,Neutral,Neutral,Agree
+4,ENG,ENG - Engineering,Male,2,8.2,5,9,"Strongly
+Disagree",Disagree,Disagree,Neutral
+5,ENG,ENG - Engineering,Male,2,7.7,4,8,Neutral,Disagree,Neutral,Agree
+6,ENG,ENG - Engineering,Male,2,7.7,5,6,"Strongly
+Disagree",Disagree,Neutral,"Strongly
+Disagree"
+7,ENG,ENG - Engineering,Male,2,7.2,7,10,"Strongly
+Disagree",Disagree,"Strongly
+Disagree",Neutral
+8,ENG,ENG - Engineering,Female,2,6.7,6,8,Neutral,Neutral,Neutral,Neutral
+9,ENG,ENG - Engineering,Male,2,7.7,6,8,Neutral,Disagree,Disagree,"Strongly
+Disagree"
+10,MATH,MATH - Mathematics,Male,2,8.2,4,7,"Strongly
+Disagree","Strongly
+Disagree",Neutral,"Strongly
+Disagree"
+11,MATH,MATH - Mathematics,Male,2,7.7,4,10,Disagree,Disagree,Neutral,Neutral
+12,ENG,ENG - Engineering,Female,2,7.7,6,4,Disagree,Disagree,Neutral,Disagree
+13,ENG,ENG - Engineering,Male,2,9.7,9,10,Neutral,"Strongly
+Disagree",Neutral,Neutral
+14,MATH,MATH - Mathematics,Female,1,9.2,9,9,"Strongly
+Disagree","Strongly
+Disagree",Neutral,Disagree
+15,ENG,ENG - Engineering,Male,2,9.2,7,10,Neutral,"Strongly
+Disagree",Neutral,Agree
+16,MATH,MATH - Mathematics,Male,2,8.2,6,4,Disagree,Disagree,"Strongly
+Disagree","Strongly
+Disagree"
+17,ENG,ENG - Engineering,Female,2,6.2,1,3,"Strongly
+Disagree",Disagree,"Strongly
+Disagree",Agree
+18,MATH,MATH - Mathematics,Female,1,9.2,8,8,"Strongly
+Disagree","Strongly
+Disagree",Neutral,"Strongly
+Disagree"
+19,MATH,MATH - Mathematics,Male,2,7.7,7,6,"Strongly
+Disagree","Strongly
+Disagree",Disagree,Disagree
+20,CS,CS - Computer Science,Male,1,8.7,6,6,"Strongly
+Disagree",Neutral,Neutral,Disagree
+21,MATH,MATH - Mathematics,Male,2,7.2,6,8,"Strongly
+Disagree",Disagree,Neutral,Neutral
+22,CS,CS - Computer Science,Male,1,8.7,7,4,Disagree,Disagree,Neutral,"Strongly
+Disagree"
+23,CS,CS - Computer Science,Male,2,7.7,7,7,Neutral,"Strongly
+Disagree",Neutral,Disagree
+24,CS,CS - Computer Science,Male,2,9.2,5,7,Neutral,Neutral,Neutral,Disagree
+25,MATH,MATH - Mathematics,Male,1,7.2,4,6,"Strongly
+Disagree",Disagree,Disagree,Neutral
+26,CS,CS - Computer Science,Male,2,8.7,5,8,Neutral,"Strongly
+Disagree",Neutral,"Strongly
+Disagree"
+27,MATH,MATH - Mathematics,Male,1,8.2,7,9,Neutral,Disagree,"Strongly
+Disagree",Neutral
+28,CS,CS - Computer Science,Male,2,8.7,3,7,"Strongly
+Disagree",Disagree,Disagree,Neutral
+29,MATH,MATH - Mathematics,Male,1,7.7,6,10,Neutral,Disagree,Neutral,Neutral
+30,CS,CS - Computer Science,Male,1,7.7,5,4,Disagree,Disagree,"Strongly
+Disagree","Strongly
+Disagree"
+31,ENG,ENG - Engineering,Male,2,7.7,5,7,Neutral,"Strongly
+Disagree",Disagree,Neutral
+32,MATH,MATH - Mathematics,Male,2,7.7,6,6,Disagree,Neutral,"Strongly
+Disagree","Strongly
+Disagree"
+33,CS,CS - Computer Science,Male,1,7.7,5,5,"Strongly
+Disagree",Disagree,Disagree,"Strongly
+Disagree"
+34,MATH,MATH - Mathematics,Male,2,7.2,7,4,Neutral,Disagree,Neutral,"Strongly
+Disagree"
+35,ENG,ENG - Engineering,Male,2,6.2,6,7,Neutral,Disagree,Neutral,Disagree
+36,ENG,ENG - Engineering,Male,2,7.2,8,9,Neutral,Neutral,Disagree,Disagree
+37,ENG,ENG - Engineering,Female,2,6.7,10,9,"Strongly
+Disagree",Disagree,Neutral,Disagree
+38,ENG,ENG - Engineering,Male,2,7.7,8,10,Disagree,Disagree,Disagree,Disagree
+39,ENG,ENG - Engineering,Male,2,7.7,7,7,"Strongly
+Disagree",Disagree,"Strongly
+Disagree",Disagree
+40,ENG,ENG - Engineering,Female,2,7.7,7,8,"Strongly
+Disagree","Strongly
+Disagree",Neutral,Neutral
+41,ENG,ENG - Engineering,Female,2,6.2,7,7,"Strongly
+Disagree",Disagree,Neutral,"Strongly
+Disagree"
+42,ENG,ENG - Engineering,Male,2,8.2,5,8,"Strongly
+Disagree",Disagree,Disagree,Agree
+43,ENG,ENG - Engineering,Male,2,8.7,8,9,"Strongly
+Disagree",Disagree,Disagree,Neutral
+44,MATH,MATH - Mathematics,Male,2,7.7,5,9,"Strongly
+Disagree","Strongly
+Disagree",Disagree,"Strongly
+Disagree"
+45,MATH,MATH - Mathematics,Female,2,7.7,6,10,"Strongly
+Disagree",Disagree,"Strongly
+Disagree","Strongly
+Disagree"
+46,MATH,MATH - Mathematics,Male,2,6.7,3,10,Neutral,"Strongly
+Disagree","Strongly
+Disagree","Strongly
+Disagree"
+47,ENG,ENG - Engineering,Female,2,7.2,8,3,"Strongly
+Disagree",Disagree,"Strongly
+Disagree","Strongly
+Disagree"
+48,MATH,MATH - Mathematics,Female,2,7.7,7,10,Neutral,"Strongly
+Disagree",Neutral,Agree
+49,MATH,MATH - Mathematics,Male,2,7.7,9,10,Disagree,"Strongly
+Disagree",Neutral,Agree
+50,ENG,ENG - Engineering,Male,2,7.2,7,8,"Strongly
+Disagree","Strongly
+Disagree","Strongly
+Disagree","Strongly
+Disagree"
+51,ENG,ENG - Engineering,Male,2,7.7,3,8,Neutral,"Strongly
+Disagree",Neutral,"Strongly
+Disagree"
+52,ENG,ENG - Engineering,Male,2,6.2,4,5,"Strongly
+Disagree",Neutral,"Strongly
+Disagree","Strongly
+Disagree"
+53,ENG,ENG - Engineering,Male,2,9.2,7,6,Disagree,Disagree,Disagree,Disagree
+54,ENG,ENG - Engineering,Male,2,7.7,5,9,Disagree,Disagree,Disagree,Agree
+55,ENG,ENG - Engineering,Female,2,7.2,5,7,"Strongly
+Disagree",Neutral,Disagree,Disagree
+56,CS,CS - Computer Science,Male,2,7.2,6,10,"Strongly
+Disagree",Disagree,Neutral,"Strongly
+Disagree"
+57,CS,CS - Computer Science,Male,1,9.2,5,8,Neutral,Disagree,Neutral,"Strongly
+Disagree"
+58,ENG,ENG - Engineering,Male,2,7.7,8,8,"Strongly
+Disagree",Disagree,"Strongly
+Disagree",Disagree
+59,CS,CS - Computer Science,Male,1,9.7,4,10,"Strongly
+Disagree",Disagree,Disagree,Agree
+60,CS,CS - Computer Science,Female,1,7.7,5,10,Disagree,Disagree,Neutral,Disagree
+61,CS,CS - Computer Science,Female,1,9.7,6,10,Disagree,Disagree,Neutral,Disagree
+62,ENG,ENG - Engineering,Female,2,8.2,4,10,Neutral,"Strongly
+Disagree",Neutral,Neutral
+63,CS,CS - Computer Science,Male,1,9.2,8,9,"Strongly
+Disagree",Disagree,Neutral,Neutral
+64,CS,CS - Computer Science,Male,1,7.7,6,6,"Strongly
+Disagree",Disagree,Disagree,Neutral
+65,CS,CS - Computer Science,Female,1,9.2,7,8,"Strongly
+Disagree","Strongly
+Disagree",Neutral,"Strongly
+Disagree"
+66,CS,CS - Computer Science,Male,1,7.7,5,3,Neutral,Neutral,"Strongly
+Disagree","Strongly
+Disagree"
+67,CS,CS - Computer Science,Female,1,7.7,8,6,"Strongly
+Disagree","Strongly
+Disagree",Disagree,"Strongly
+Disagree"
+68,CS,CS - Computer Science,Male,1,7.2,1,10,"Strongly
+Disagree","Strongly
+Disagree",Neutral,Disagree
+69,CS,CS - Computer Science,Male,1,8.7,6,9,Neutral,Neutral,"Strongly
+Disagree",Disagree
+70,CS,CS - Computer Science,Male,1,7.7,4,6,"Strongly
+Disagree",Disagree,Neutral,Neutral
+71,ENG,ENG - Engineering,Male,2,6.7,9,10,Neutral,Disagree,Disagree,"Strongly
+Disagree"
+72,MATH,MATH - Mathematics,Female,2,8.7,10,10,Neutral,Neutral,"Strongly
+Disagree",Neutral
+73,ENG,ENG - Engineering,Female,2,9.2,8,10,"Strongly
+Disagree","Strongly
+Disagree",Neutral,"Strongly
+Disagree"
+74,ENG,ENG - Engineering,Male,2,8.7,6,5,Neutral,Disagree,Disagree,"Strongly
+Disagree"
+75,ENG,ENG - Engineering,Male,2,8.2,5,5,Disagree,Disagree,Neutral,"Strongly
+Disagree"
+76,MATH,MATH - Mathematics,Female,2,5.7,4,7,Disagree,"Strongly
+Disagree",Disagree,Neutral
+77,CS,CS - Computer Science,Female,1,8.7,7,10,Neutral,"Strongly
+Disagree",Neutral,Disagree
+78,CS,CS - Computer Science,Male,1,8.7,4,8,Disagree,Neutral,"Strongly
+Disagree","Strongly
+Disagree"
+79,CS,CS - Computer Science,Female,1,7.2,4,7,"Strongly
+Disagree",Disagree,Neutral,"Strongly
+Disagree"
+80,CS,CS - Computer Science,Male,1,7.7,8,8,Neutral,"Strongly
+Disagree",Neutral,Neutral
+81,MATH,MATH - Mathematics,Male,1,7.2,8,8,Neutral,Disagree,Neutral,Neutral
+82,ENG,ENG - Engineering,Female,1,5.7,3,3,Disagree,Disagree,Neutral,Disagree
+83,MATH,MATH - Mathematics,Male,1,7.7,7,8,Neutral,"Strongly
+Disagree",Disagree,Disagree
+84,ENG,ENG - Engineering,Female,1,6.7,5,7,Disagree,Neutral,Disagree,Neutral
+85,CS,CS - Computer Science,Male,2,8.2,6,6,"Strongly
+Disagree",Neutral,"Strongly
+Disagree","Strongly
+Disagree"
+86,CS,CS - Computer Science,Female,2,5.7,1,6,"Strongly
+Disagree",Disagree,"Strongly
+Disagree","Strongly
+Disagree"
+87,CS,CS - Computer Science,Female,1,7.2,8,7,Disagree,Disagree,"Strongly
+Disagree","Strongly
+Disagree"
+88,MATH,MATH - Mathematics,Female,1,8.7,6,7,Neutral,"Strongly
+Disagree",Neutral,Disagree
+89,CS,CS - Computer Science,Female,1,6.2,9,10,"Strongly
+Disagree",Disagree,Neutral,"Strongly
+Disagree"
+90,CS,CS - Computer Science,Female,1,8.7,2,2,Disagree,Neutral,"Strongly
+Disagree",Disagree
+91,MATH,MATH - Mathematics,Female,1,5.2,2,2,Neutral,Neutral,Neutral,Agree

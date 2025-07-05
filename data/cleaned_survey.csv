@@ -1,0 +1,92 @@
+id,q1_ai_knowledge,q2_ai_sources,q2_number_1_internet,q2_number_2_books_papers,q2_number_3_social_media,q2_number_4_discussions,q2_number_5_not_informed,q3_number_1_ai_dehumanization,q3_number_2_job_replacement,q3_number_3_problem_solving,q3_number_4_ai_rulling_society,q4_number_1_ai_costly,q4_number_2_economic_crisis,q4_number_3_economic_growth,q4_number_4_job_loss,q5_feelings,q6_domains,q6_number_1_education,q6_number_2_medicine,q6_number_3_agriculture,q6_number_4_constructions,q6_number_5_marketing,q6_number_6_administration,q6_number_7_art,q7_utility_grade,q8_advantage_teaching,q9_advantage_learning,q10_advantage_evaluation,q11_disadvantage_educational_process,q12_gender,q13_year_of_study,q14_major,q15_passed_exams,q16_gpa,major,stem_subfield,field
+1,8,Internet;Books/Scientific papers (physical/online format),1,1,0,0,0,1,2,5,1,4,2,4,2,1,Education;Medicine;Marketing,1,1,0,0,1,0,0,9,3,1,2,3,1,2,2,1,9.2,Engineering,Engineering,STEM
+2,7,Internet;Social media,1,0,1,0,0,2,3,4,1,3,3,4,3,1,Medicine;Agriculture;Constructions,0,1,1,1,0,0,0,6,2,2,1,2,2,2,2,1,7.7,Engineering,Engineering,STEM
+3,5,Internet;Books/Scientific papers (physical/online format),1,1,0,0,0,2,1,4,1,3,1,3,2,1,Education;Marketing;Public Administration,1,0,0,0,1,1,0,6,3,3,3,4,2,2,2,0,7.2,Engineering,Engineering,STEM
+4,5,Internet;Social media,1,0,1,0,0,4,4,5,3,4,3,3,4,1,Education;Medicine,1,1,0,0,0,0,0,9,1,2,2,3,1,2,2,1,8.2,Engineering,Engineering,STEM
+5,4,Internet,1,0,0,0,0,1,2,5,1,3,1,4,2,1,Education;Medicine;Agriculture;Constructions,1,1,1,1,0,0,0,8,3,2,3,4,1,2,2,1,7.7,Engineering,Engineering,STEM
+6,5,Internet;Discussions with family/friends,1,0,0,1,0,3,4,4,3,4,3,3,4,2,Education;Agriculture;Public Administration,1,0,1,0,0,1,0,6,1,2,3,1,1,2,2,1,7.7,Engineering,Engineering,STEM
+7,7,Books/Scientific papers (physical/online format);Social media;Discussions with family/friends,0,1,1,1,0,1,2,4,1,5,4,2,4,1,Education;Medicine;Constructions,1,1,0,1,0,0,0,10,1,2,1,3,1,2,2,0,7.2,Engineering,Engineering,STEM
+8,6,Internet,1,0,0,0,0,1,1,5,1,3,2,3,2,1,Education;Medicine,1,1,0,0,0,0,0,8,3,3,3,3,2,2,2,0,6.7,Engineering,Engineering,STEM
+9,6,Internet;Books/Scientific papers (physical/online format);Discussions with family/friends,1,1,0,1,0,2,4,5,2,5,2,3,4,1,Agriculture;Marketing;Public Administration,0,0,1,0,1,1,0,8,3,2,2,1,1,2,2,0,7.7,Engineering,Engineering,STEM
+10,4,Internet,1,0,0,0,0,4,4,4,3,4,3,3,4,1,Education;Medicine;Agriculture;Constructions,1,1,1,1,0,0,0,7,1,1,3,1,1,2,3,1,8.2,Mathematics,Math,STEM
+11,4,Internet;Discussions with family/friends,1,0,0,1,0,3,3,5,2,4,1,4,3,1,Education;Medicine;Agriculture;Constructions;Marketing;Public Administration,1,1,1,1,1,1,0,10,2,2,3,3,1,2,3,0,7.7,Mathematics,Math,STEM
+12,6,Internet,1,0,0,0,0,4,4,2,2,3,3,3,3,1,Medicine;Agriculture;Constructions;Public Administration,0,1,1,1,0,1,0,4,2,2,3,2,2,2,2,1,7.7,Engineering,Engineering,STEM
+13,9,Internet;Books/Scientific papers (physical/online format);Social media,1,1,1,0,0,2,4,5,1,4,1,4,4,4,Education;Medicine;Art,1,1,0,0,0,0,1,10,3,1,3,3,1,2,2,1,9.7,Engineering,Engineering,STEM
+14,9,Books/Scientific papers (physical/online format),0,1,0,0,0,2,4,5,4,3,2,5,5,1,Education;Medicine;Agriculture;Constructions;Marketing;Public Administration,1,1,1,1,1,1,0,9,1,1,3,2,2,1,3,1,9.2,Mathematics,Math,STEM
+15,7,Internet,1,0,0,0,0,2,4,4,1,4,1,3,2,3,Medicine;Agriculture;Constructions;Marketing;Public Administration,0,1,1,1,1,1,0,10,3,1,3,4,1,2,2,1,9.2,Engineering,Engineering,STEM
+16,6,Internet;Books/Scientific papers (physical/online format),1,1,0,0,0,2,2,4,2,4,2,4,2,3,Constructions;Public Administration,0,0,0,1,0,1,0,4,2,2,1,1,1,2,3,1,8.2,Mathematics,Math,STEM
+17,1,I don't inform myself about AI,0,0,0,0,1,1,4,5,1,4,3,5,4,3,Medicine;Agriculture;Marketing,0,1,1,0,1,0,0,3,1,2,1,4,2,2,2,0,6.2,Engineering,Engineering,STEM
+18,8,Internet;Social media,1,0,1,0,0,5,5,5,5,5,3,3,5,2,Medicine;Constructions;Marketing;Art,0,1,0,1,1,0,1,8,1,1,3,1,2,1,3,1,9.2,Mathematics,Math,STEM
+19,7,Internet;Social media;Discussions with family/friends,1,0,1,1,0,4,4,4,1,4,1,3,4,1,Education;Medicine;Constructions,1,1,0,1,0,0,0,6,1,1,2,2,1,2,3,1,7.7,Mathematics,Math,STEM
+20,6,Social media,0,0,1,0,0,1,2,5,2,4,3,4,2,1,Medicine;Agriculture;Constructions;Art,0,1,1,1,0,0,1,6,1,3,3,2,1,1,1,1,8.7,Computer Science,CS,STEM
+21,6,Internet;Social media,1,0,1,0,0,2,2,4,1,3,2,4,4,1,Education;Medicine;Agriculture;Public Administration,1,1,1,0,0,1,0,8,1,2,3,3,1,2,3,0,7.2,Mathematics,Math,STEM
+22,7,Internet;Social media;Discussions with family/friends,1,0,1,1,0,3,4,3,2,5,3,3,4,3,Medicine;Constructions,0,1,0,1,0,0,0,4,2,2,3,1,1,1,1,1,8.7,Computer Science,CS,STEM
+23,7,Internet;Books/Scientific papers (physical/online format);Social media;Discussions with family/friends,1,1,1,1,0,4,5,4,4,5,2,5,5,1,Medicine,0,1,0,0,0,0,0,7,3,1,3,2,1,2,1,1,7.7,Computer Science,CS,STEM
+24,5,Internet,1,0,0,0,0,2,2,5,3,3,3,3,3,1,Education;Medicine;Agriculture;Constructions,1,1,1,1,0,0,0,7,3,3,3,2,1,2,1,1,9.2,Computer Science,CS,STEM
+25,4,Internet;Social media;Discussions with family/friends,1,0,1,1,0,3,2,5,1,4,3,4,4,1,Education;Medicine;Constructions,1,1,0,1,0,0,0,6,1,2,2,3,1,1,3,1,7.2,Mathematics,Math,STEM
+26,5,Books/Scientific papers (physical/online format),0,1,0,0,0,2,1,5,1,2,3,3,2,1,Medicine;Constructions,0,1,0,1,0,0,0,8,3,1,3,1,1,2,1,1,8.7,Computer Science,CS,STEM
+27,7,Internet;Books/Scientific papers (physical/online format);Discussions with family/friends,1,1,0,1,0,4,3,4,1,4,3,3,3,1,Education;Medicine;Agriculture;Marketing;Art,1,1,1,0,1,0,1,9,3,2,1,3,1,1,3,1,8.2,Mathematics,Math,STEM
+28,3,Internet,1,0,0,0,0,1,4,4,3,4,2,3,4,1,Education;Medicine;Constructions,1,1,0,1,0,0,0,7,1,2,2,3,1,2,1,1,8.7,Computer Science,CS,STEM
+29,6,Internet;Social media;Discussions with family/friends,1,0,1,1,0,3,1,5,2,2,1,5,1,1,Education;Medicine;Agriculture;Constructions,1,1,1,1,0,0,0,10,3,2,3,3,1,1,3,1,7.7,Mathematics,Math,STEM
+30,5,Internet,1,0,0,0,0,3,3,4,3,4,3,3,2,1,Medicine;Constructions,0,1,0,1,0,0,0,4,2,2,1,1,1,1,1,1,7.7,Computer Science,CS,STEM
+31,5,Internet,1,0,0,0,0,4,4,5,3,5,3,3,4,1,Education;Agriculture;Marketing,1,0,1,0,1,0,0,7,3,1,2,3,1,2,2,1,7.7,Engineering,Engineering,STEM
+32,6,Internet,1,0,0,0,0,2,4,4,3,5,2,4,4,1,Medicine;Agriculture;Constructions,0,1,1,1,0,0,0,6,2,3,1,1,1,2,3,0,7.7,Mathematics,Math,STEM
+33,5,Books/Scientific papers (physical/online format),0,1,0,0,0,5,5,5,5,3,2,4,4,1,Medicine;Marketing;Art,0,1,0,0,1,0,1,5,1,2,2,1,1,1,1,1,7.7,Computer Science,CS,STEM
+34,7,Internet;Books/Scientific papers (physical/online format),1,1,0,0,0,4,4,5,1,2,1,4,4,1,Medicine;Agriculture;Constructions,0,1,1,1,0,0,0,4,3,2,3,1,1,2,3,1,7.2,Mathematics,Math,STEM
+35,6,Internet;Social media,1,0,1,0,0,4,4,4,2,3,4,4,4,1,Education;Medicine,1,1,0,0,0,0,0,7,3,2,3,2,1,2,2,1,6.2,Engineering,Engineering,STEM
+36,8,Internet,1,0,0,0,0,3,2,4,3,4,4,3,4,3,Construction,0,0,0,0,0,0,0,9,3,3,2,2,1,2,2,0,7.2,Engineering,Engineering,STEM
+37,10,Internet;Books/Scientific papers (physical/online format),1,1,0,0,0,4,5,5,1,1,4,4,5,1,Education;Medicine;Agriculture;Constructions;Marketing;Public Administration;Art,1,1,1,1,1,1,1,9,1,2,3,2,2,2,2,0,6.7,Engineering,Engineering,STEM
+38,8,Internet;Books/Scientific papers (physical/online format);Social media;Discussions with family/friends,1,1,1,1,0,1,1,5,1,4,4,2,3,1,Education;Medicine;Agriculture;Constructions;Marketing;Public Administration;Art,1,1,1,1,1,1,1,10,2,2,2,2,1,2,2,1,7.7,Engineering,Engineering,STEM
+39,7,Books/Scientific papers (physical/online format),0,1,0,0,0,2,3,4,3,2,3,4,3,2,Education,1,0,0,0,0,0,0,7,1,2,1,2,1,2,2,1,7.7,Engineering,Engineering,STEM
+40,7,Internet;Social media;Discussions with family/friends,1,0,1,1,0,3,2,5,3,4,2,5,5,1,Education;Medicine;Agriculture;Constructions,1,1,1,1,0,0,0,8,1,1,3,3,2,2,2,1,7.7,Engineering,Engineering,STEM
+41,7,Social media,0,0,1,0,0,4,5,1,3,3,4,2,5,2,Education;Medicine;Constructions;Public Administration,1,1,0,1,0,1,0,7,1,2,3,1,2,2,2,0,6.2,Engineering,Engineering,STEM
+42,5,Internet;Books/Scientific papers (physical/online format);Social media,1,1,1,0,0,3,4,4,3,4,2,4,4,1,Education;Medicine,1,1,0,0,0,0,0,8,1,2,2,4,1,2,2,1,8.2,Engineering,Engineering,STEM
+43,8,Internet;Books/Scientific papers (physical/online format),1,1,0,0,0,2,3,5,3,3,4,5,3,1,Education;Medicine;Agriculture,1,1,1,0,0,0,0,9,1,2,2,3,1,2,2,1,8.7,Engineering,Engineering,STEM
+44,5,Internet,1,0,0,0,0,2,3,5,1,4,3,4,3,1,Education;Medicine;Agriculture;Constructions,1,1,1,1,0,0,0,9,1,1,2,1,1,2,3,1,7.7,Mathematics,Math,STEM
+45,6,Internet;Social media;Discussions with family/friends,1,0,1,1,0,2,2,5,2,4,2,5,3,1,Education;Medicine;Marketing;Public Administration;Art,1,1,0,0,1,1,1,10,1,2,1,1,2,2,3,1,7.7,Mathematics,Math,STEM
+46,3,Internet;Books/Scientific papers (physical/online format),1,1,0,0,0,3,2,1,3,4,3,4,3,1,Education;Medicine;Constructions,1,1,0,1,0,0,0,10,3,1,1,1,1,2,3,0,6.7,Mathematics,Math,STEM
+47,8,Internet;Social media,1,0,1,0,0,5,5,2,5,4,3,3,5,2,Medicine;Agriculture;Constructions;Public Administration,0,1,1,1,0,1,0,3,1,2,1,1,2,2,2,1,7.2,Engineering,Engineering,STEM
+48,7,Internet,1,0,0,0,0,1,2,5,1,4,2,4,1,4,Education;Medicine;Public Administration,1,1,0,0,0,1,0,10,3,1,3,4,2,2,3,0,7.7,Mathematics,Math,STEM
+49,9,Internet;Books/Scientific papers (physical/online format),1,1,0,0,0,1,2,5,3,3,1,4,3,1,Education;Medicine;Marketing,1,1,0,0,1,0,0,10,2,1,3,4,1,2,3,1,7.7,Mathematics,Math,STEM
+50,7,Internet;Social media,1,0,1,0,0,3,3,3,3,3,3,3,3,1,Education;Marketing,1,0,0,0,1,0,0,8,1,1,1,1,1,2,2,1,7.2,Engineering,Engineering,STEM
+51,3,Internet;Social media,1,0,1,0,0,3,4,4,3,3,3,4,4,1,Medicine;Agriculture;Constructions;Public Administration,0,1,1,1,0,1,0,8,3,1,3,1,1,2,2,1,7.7,Engineering,Engineering,STEM
+52,4,Internet;Books/Scientific papers (physical/online format);Social media;Discussions with family/friends,1,1,1,1,0,3,2,5,1,5,2,4,4,1,Agriculture;Constructions,0,0,1,1,0,0,0,5,1,3,1,1,1,2,2,0,6.2,Engineering,Engineering,STEM
+53,7,Internet;Social media,1,0,1,0,0,3,4,4,4,5,4,4,4,2,Medicine;Agriculture;Public Administration,0,1,1,0,0,1,0,6,2,2,2,2,1,2,2,1,9.2,Engineering,Engineering,STEM
+54,5,Internet,1,0,0,0,0,2,2,5,4,3,3,5,4,4,Education;Medicine;Public Administration,1,1,0,0,0,1,0,9,2,2,2,4,1,2,2,0,7.7,Engineering,Engineering,STEM
+55,5,Internet,1,0,0,0,0,1,4,4,3,3,2,3,1,1,Education;Medicine;Constructions;Marketing,1,1,0,1,1,0,0,7,1,3,2,2,2,2,2,0,7.2,Engineering,Engineering,STEM
+56,6,Internet;Books/Scientific papers (physical/online format),1,1,0,0,0,2,3,5,1,4,5,5,4,1,Education;Medicine;Agriculture;Marketing,1,1,1,0,1,0,0,10,1,2,3,1,1,2,1,0,7.2,Computer Science,CS,STEM
+57,5,Internet,1,0,0,0,0,2,4,4,2,4,2,4,4,1,Medicine;Agriculture;Constructions;Marketing;Public Administration,0,1,1,1,1,1,0,8,3,2,3,1,1,1,1,1,9.2,Computer Science,CS,STEM
+58,8,Internet;Books/Scientific papers (physical/online format);Social media;Discussions with family/friends,1,1,1,1,0,1,2,5,3,5,3,4,3,3,Education;Medicine;Agriculture;Constructions;Marketing;Public Administration;Art,1,1,1,1,1,1,1,8,1,2,1,2,1,2,2,1,7.7,Engineering,Engineering,STEM
+59,4,I don't inform myself about AI,0,0,0,0,1,2,2,5,2,4,2,5,3,1,Education;Medicine;Agriculture;Constructions;Marketing,1,1,1,1,1,0,0,10,1,2,2,4,1,1,1,1,9.7,Computer Science,CS,STEM
+60,5,Internet;Books/Scientific papers (physical/online format);Social media,1,1,1,0,0,1,2,5,1,2,1,5,2,4,Education;Medicine;Agriculture;Constructions;Marketing;Public Administration,1,1,1,1,1,1,0,10,2,2,3,2,2,1,1,1,7.7,Computer Science,CS,STEM
+61,6,Internet;Books/Scientific papers (physical/online format);Social media,1,1,1,0,0,1,2,5,1,2,1,5,2,1,Education;Medicine;Agriculture;Constructions;Marketing;Public Administration,1,1,1,1,1,1,0,10,2,2,3,2,2,1,1,1,9.7,Computer Science,CS,STEM
+62,4,Internet;Social media,1,0,1,0,0,4,4,5,4,2,1,5,4,1,Education;Medicine;Agriculture;Constructions,1,1,1,1,0,0,0,10,3,1,3,3,2,2,2,1,8.2,Engineering,Engineering,STEM
+63,8,Internet;Social media;Discussions with family/friends,1,0,1,1,0,3,3,4,2,3,2,4,2,1,Education;Medicine;Agriculture;Constructions;Public Administration,1,1,1,1,0,1,0,9,1,2,3,3,1,1,1,1,9.2,Computer Science,CS,STEM
+64,6,Internet,1,0,0,0,0,3,4,5,4,2,3,2,2,1,Education;Medicine;Agriculture;Constructions,1,1,1,1,0,0,0,6,1,2,2,3,1,1,1,0,7.7,Computer Science,CS,STEM
+65,7,Internet;Books/Scientific papers (physical/online format);Social media,1,1,1,0,0,2,5,4,4,4,2,3,4,1,Education;Medicine;Agriculture;Constructions,1,1,1,1,0,0,0,8,1,1,3,1,2,1,1,1,9.2,Computer Science,CS,STEM
+66,5,Internet;Books/Scientific papers (physical/online format);Social media,1,1,1,0,0,1,5,3,3,4,2,2,4,1,Medicine;Agriculture;Constructions;Art,0,1,1,1,0,0,1,3,3,3,1,1,1,1,1,1,7.7,Computer Science,CS,STEM
+67,8,Internet;Books/Scientific papers (physical/online format);Social media;Discussions with family/friends,1,1,1,1,0,5,5,5,5,4,5,5,5,2,Medicine;Agriculture,0,1,1,0,0,0,0,6,1,1,2,1,2,1,1,1,7.7,Computer Science,CS,STEM
+68,1,Internet,1,0,0,0,0,3,4,4,3,4,4,4,4,2,Education;Medicine;Agriculture;Constructions,1,1,1,1,0,0,0,10,1,1,3,2,1,1,1,1,7.2,Computer Science,CS,STEM
+69,6,Internet,1,0,0,0,0,2,3,4,2,4,2,4,2,1,Education;Medicine;Constructions;Public Administration,1,1,0,1,0,1,0,9,3,3,1,2,1,1,1,1,8.7,Computer Science,CS,STEM
+70,4,Internet;Social media,1,0,1,0,0,4,3,4,4,5,3,4,4,2,Education;Marketing;Public Administration,1,0,0,0,1,1,0,6,1,2,3,3,1,1,1,1,7.7,Computer Science,CS,STEM
+71,9,Internet;Social media,1,0,1,0,0,1,3,4,1,3,3,3,4,1,Medicine;Agriculture;Constructions,0,1,1,1,0,0,0,10,3,2,2,1,1,2,2,1,6.7,Engineering,Engineering,STEM
+72,10,Internet;Social media,1,0,1,0,0,1,5,5,5,3,1,5,1,4,Education;Medicine;Marketing;Art,1,1,0,0,1,0,1,10,3,3,1,3,2,2,3,1,8.7,Mathematics,Math,STEM
+73,8,Internet,1,0,0,0,0,2,2,2,2,2,2,4,4,1,Education;Medicine;Marketing,1,1,0,0,1,0,0,10,1,1,3,1,2,2,2,1,9.2,Engineering,Engineering,STEM
+74,6,Internet,1,0,0,0,0,3,4,4,2,3,2,3,4,1,Constructions,0,0,0,1,0,0,0,5,3,2,2,1,1,2,2,1,8.7,Engineering,Engineering,STEM
+75,5,I don't inform myself about AI,0,0,0,0,1,3,1,2,1,3,1,3,4,3,Marketing,0,0,0,0,1,0,0,5,2,2,3,1,1,2,2,1,8.2,Engineering,Engineering,STEM
+76,4,Internet,1,0,0,0,0,2,4,5,3,2,2,4,4,1,Medicine;Public Administration,0,1,0,0,0,1,0,7,2,1,2,3,2,2,3,0,5.7,Mathematics,Math,STEM
+77,7,Internet;Books/Scientific papers (physical/online format);Social media,1,1,1,0,0,2,5,5,2,5,3,4,4,1,Education;Medicine;Agriculture;Constructions;Public Administration,1,1,1,1,0,1,0,10,3,1,3,2,2,1,1,0,8.7,Computer Science,CS,STEM
+78,4,Internet,1,0,0,0,0,2,4,4,3,4,5,3,5,1,Education;Marketing,1,0,0,0,1,0,0,8,2,3,1,1,1,1,1,1,8.7,Computer Science,CS,STEM
+79,4,I don't inform myself about AI,0,0,0,0,1,3,3,2,3,4,2,2,4,3,Education;Medicine;Agriculture,1,1,1,0,0,0,0,7,1,2,3,1,2,1,1,1,7.2,Computer Science,CS,STEM
+80,8,Internet;Books/Scientific papers (physical/online format);Social media,1,1,1,0,0,1,2,5,1,3,1,3,3,3,Education;Medicine;Agriculture;Constructions;Marketing;Public Administration,1,1,1,1,1,1,0,8,3,1,3,3,1,1,1,1,7.7,Computer Science,CS,STEM
+81,8,Internet;Books/Scientific papers (physical/online format);Social media,1,1,1,0,0,2,4,5,2,2,3,4,2,1,Education;Medicine;Agriculture;Constructions;Marketing;Public Administration;Art,1,1,1,1,1,1,1,8,3,2,3,3,1,1,3,1,7.2,Mathematics,Math,STEM
+82,3,Internet,1,0,0,0,0,4,4,2,3,3,5,3,5,2,Education,1,0,0,0,0,0,0,3,2,2,3,2,2,1,2,0,5.7,Engineering,Engineering,STEM
+83,7,Internet;Social media,1,0,1,0,0,3,4,4,3,4,3,3,4,1,Education;Public Administration,1,0,0,0,0,1,0,8,3,1,2,2,1,1,3,1,7.7,Mathematics,Math,STEM
+84,5,Social media,0,0,1,0,0,4,4,4,4,3,4,3,4,3,Public Administration,0,0,0,0,0,1,0,7,2,3,2,3,2,1,2,1,6.7,Engineering,Engineering,STEM
+85,6,Internet;Books/Scientific papers (physical/online format),1,1,0,0,0,3,3,4,3,3,4,2,3,1,Education;Marketing;Public Administration,1,0,0,0,1,1,0,6,1,3,1,1,1,2,1,1,8.2,Computer Science,CS,STEM
+86,1,I don't inform myself about AI,0,0,0,0,1,5,5,2,3,4,3,3,5,2,Education;Marketing;Public Administration,1,0,0,0,1,1,0,6,1,2,1,1,2,2,1,0,5.7,Computer Science,CS,STEM
+87,8,Internet,1,0,0,0,0,1,1,5,1,3,2,4,2,1,Education;Medicine,1,1,0,0,0,0,0,7,2,2,1,1,2,1,1,1,7.2,Computer Science,CS,STEM
+88,6,Social media,0,0,1,0,0,2,2,4,3,4,2,4,3,1,Education;Medicine,1,1,0,0,0,0,0,7,3,1,3,2,2,1,3,1,8.7,Mathematics,Math,STEM
+89,9,Books/Scientific papers (physical/online format),0,1,0,0,0,1,1,5,1,4,2,5,2,4,Education;Medicine;Agriculture;Constructions;Marketing;Public Administration,1,1,1,1,1,1,0,10,1,2,3,1,2,1,1,0,6.2,Computer Science,CS,STEM
+90,2,I don't inform myself about AI,0,0,0,0,1,2,4,4,4,5,4,2,4,2,Medicine,0,1,0,0,0,0,0,2,2,3,1,2,2,1,1,1,8.7,Computer Science,CS,STEM
+91,2,Discussions with family/friends,0,0,0,1,0,2,4,2,4,4,2,4,2,4,Medicine;Constructions;Public Administration,0,1,0,1,0,1,0,2,3,3,3,4,2,1,3,1,5.2,Mathematics,Math,STEM
