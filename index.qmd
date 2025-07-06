@@ -12,6 +12,9 @@ The analysis reveals that 65% of students believe AI improves learning efficienc
 Students are optimistic about AI’s potential in education, but concerns about fairness, bias, and teacher replacement remain major barriers to full acceptance.
 
 ```{r utility_plot, echo=FALSE, message=FALSE, warning=FALSE}
+#| echo: false
+#| warning: false
+#| message: false
 library(tidyverse)
 library(plotly)
 
