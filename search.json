@@ -2,9 +2,16 @@
   {
     "objectID": "sources.html",
     "href": "sources.html",
-    "title": "Sources",
+    "title": "Data Sources",
     "section": "",
-    "text": "The data used in this project comes from a public Kaggle dataset titled “Survey on Students’ Perceptions of AI in Education,” created by Gianina Maria Petrascu.\nThe dataset contains responses from students regarding their thoughts, experiences, and expectations about AI in learning environments. To prepare the data for analysis, I cleaned missing values, standardized column names, and removed non-informative entries.\nNo major observations were excluded, but some open-text responses were summarized for clarity. The cleaned dataset is stored in the data/ folder."
+    "text": "Dataset: Survey on Students’ Perceptions of AI in Education\nAuthor: Gianina Maria Petrascu (2023)\nSample: 1,200 university students across 10 countries"
+  },
+  {
+    "objectID": "sources.html#original-data-source",
+    "href": "sources.html#original-data-source",
+    "title": "Data Sources",
+    "section": "",
+    "text": "Dataset: Survey on Students’ Perceptions of AI in Education\nAuthor: Gianina Maria Petrascu (2023)\nSample: 1,200 university students across 10 countries"
   },
   {
     "objectID": "about.html",

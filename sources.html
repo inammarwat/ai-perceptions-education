@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Sources – Public Perceptions of AI on Education</title>
+<title>Data Sources – Public Perceptions of AI on Education</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -97,6 +97,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./sources.html" aria-current="page"> 
+<span class="menu-text">Sources</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -108,15 +112,21 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#original-data-source" id="toc-original-data-source" class="nav-link active" data-scroll-target="#original-data-source">Original Data Source</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Sources</h1>
+<h1 class="title">Data Sources</h1>
 </div>
 
 
@@ -133,11 +143,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The data used in this project comes from a public Kaggle dataset titled “Survey on Students’ Perceptions of AI in Education,” created by Gianina Maria Petrascu.</p>
-<p>The dataset contains responses from students regarding their thoughts, experiences, and expectations about AI in learning environments. To prepare the data for analysis, I cleaned missing values, standardized column names, and removed non-informative entries.</p>
-<p>No major observations were excluded, but some open-text responses were summarized for clarity. The cleaned dataset is stored in the <code>data/</code> folder.</p>
+<section id="original-data-source" class="level2">
+<h2 class="anchored" data-anchor-id="original-data-source">Original Data Source</h2>
+<ul>
+<li><strong>Dataset</strong>: <a href="https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education">Survey on Students’ Perceptions of AI in Education</a></li>
+<li><strong>Author</strong>: Gianina Maria Petrascu (2023)</li>
+<li><strong>Sample</strong>: 1,200 university students across 10 countries</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -212,7 +227,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/inammarwat\.github\.io\/ai-perceptions-education\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

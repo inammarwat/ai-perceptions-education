@@ -1,1 +1,1 @@
-Sitemap: https://b5336c2f-179e-4a86-927d-5b7bbf262cb6.netlify.app/sitemap.xml
+Sitemap: https://inammarwat.github.io/ai-perceptions-education/sitemap.xml
